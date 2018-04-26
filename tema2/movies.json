@@ -1,0 +1,16 @@
+{
+  "movies": [
+    {
+      "name": "The Shawshank Redemption",
+      "actors": [
+        "Morgan Freeman",
+        "Tim Robbins"
+      ],
+      "year": 1994
+    },
+    {
+      "name": "new_movie",
+      "something": "yey"
+    }
+  ]
+}
